@@ -1,0 +1,21 @@
+# dependencies
+my-react-app/node_modules
+
+# production
+my-react-app/dist
+
+# misc
+my-react-app/.env
+my-react-app/.DS_Store
+my-react-app/coverage
+my-react-app/*.log
+my-react-app/*.local
+
+# IDEs and editors
+my-react-app/.vscode/
+my-react-app/.idea/
+
+# npm logs
+my-react-app/npm-debug.log*
+my-react-app/yarn-debug.log*
+my-react-app/pnpm-debug.log* 
