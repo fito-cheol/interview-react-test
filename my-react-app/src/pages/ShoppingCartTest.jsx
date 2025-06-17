@@ -37,6 +37,7 @@ function ShoppingCartTest() {
 						<button>-</button>
 					</li>
 				</ul>
+				<p className="total">총액: 4000원</p>
 			</div>
 		</div>
 	);
