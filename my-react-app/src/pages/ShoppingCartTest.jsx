@@ -14,9 +14,9 @@ import './ShoppingCart.css';
 
 function ShoppingCartTest() {
 	return (
-		<div>
+		<div className="shopping-cart">
 			<h1>쇼핑</h1>
-			<div>
+			<div className="product-list">
 				<h2>상품 목록</h2>
 				<ul>
 					<li>
@@ -25,7 +25,7 @@ function ShoppingCartTest() {
 					</li>
 				</ul>
 			</div>
-			<div>
+			<div className="cart">
 				<h2>장바구니</h2>
 				{/* 빈 경우 */}
 				<p>장바구니가 비어 있습니다.</p>

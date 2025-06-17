@@ -39,6 +39,17 @@ const AppBar = () => (
 		>
 			쇼핑카트 예시
 		</Link>
+		{/* <Link
+			to="/loading"
+			style={{
+				marginRight: '1rem',
+				color: 'white',
+				textDecoration: 'none',
+				fontWeight: 500,
+			}}
+		>
+			로딩바
+		</Link> */}
 	</nav>
 );
 
