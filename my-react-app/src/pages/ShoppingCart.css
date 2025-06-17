@@ -1,8 +1,9 @@
 .shopping-cart {
-  max-width: 600px;
+  min-width: 250px;
   margin: 20px auto;
   padding: 20px;
   font-family: Arial, sans-serif;
+  min-height: 1000px;
 }
 
 .product-list,
